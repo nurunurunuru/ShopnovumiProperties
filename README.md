@@ -1,0 +1,1 @@
+# Shopnovumi Properties Website\n\nRun:\n\n```bash\nnpm install\nnpm run dev\n```\n\nOpen the localhost link shown in terminal.\n
